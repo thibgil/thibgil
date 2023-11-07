@@ -10,6 +10,7 @@
   </a> &nbsp; 
 </p>
 <p align="center">
+  <h2 align="center">🛡&emsp;My HackTheBox & TryHackMe Accounts&emsp;🛡</h2>
   <img id="preview" src="https://www.hackthebox.eu/badge/image/772677">
   <img src="https://tryhackme-badges.s3.amazonaws.com/Zaideby.png" alt="TryHackMe">
 </p>
