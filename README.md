@@ -4,12 +4,12 @@
     <h1 align="center">🛡&emsp;thibgil&emsp;🛡</h1>
 </p>
 <br>
+<h2 align="center">&emsp;Linkedin&emsp;</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/gilbinthibault" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> My Linkedin Profile
-  </a> &nbsp; 
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> Thibault Gilbin
 </p>
-<h3 align="center">&emsp;HackTheBox & TryHackMe&emsp;</h3>
+<h2 align="center">&emsp;HackTheBox & TryHackMe&emsp;</h2>
 <p align="center">
   <img id="preview" src="https://www.hackthebox.eu/badge/image/772677">
   <img src="https://tryhackme-badges.s3.amazonaws.com/Zaideby.png" alt="TryHackMe">
