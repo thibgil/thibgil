@@ -3,7 +3,6 @@
 <p align="center">
     <h1 align="center">🛡&emsp;thibgil&emsp;🛡</h1>
 </p>
-<h2 align="center">&emsp;Linkedin&emsp;</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/gilbinthibault" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> Thibault Gilbin
