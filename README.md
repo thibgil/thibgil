@@ -9,7 +9,7 @@
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> My Linkedin Profile
   </a> &nbsp; 
 </p>
-<h2 align="center">&emsp;HackTheBox & TryHackMe&emsp;</h2>
+<h3 align="center">&emsp;HackTheBox & TryHackMe&emsp;</h3>
 <p align="center">
   <img id="preview" src="https://www.hackthebox.eu/badge/image/772677">
   <img src="https://tryhackme-badges.s3.amazonaws.com/Zaideby.png" alt="TryHackMe">
