@@ -11,7 +11,7 @@
 </p>
 <p align="center">
   <img id="preview" src="https://www.hackthebox.eu/badge/image/772677">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Zaideby.png" alt="TryHackMe">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/thibgil.png" alt="TryHackMe">
 </p>
 <br>
 <br>
